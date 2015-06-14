@@ -4,13 +4,13 @@
 \contentsline {chapter}{\chapternumberline {2}Kravspecifikation}{3}{chapter.2}
 \contentsline {section}{\numberline {\color {ThemeColor}2.1}Kontekstdiagram}{3}{section.2.1}
 \contentsline {section}{\numberline {\color {ThemeColor}2.2}User case diagram}{4}{section.2.2}
-\contentsline {section}{\numberline {\color {ThemeColor}2.3}Akt\IeC {\o }rbeskrivelse}{4}{section.2.3}
-\contentsline {section}{\numberline {\color {ThemeColor}2.4}Fully dressed use cases}{4}{section.2.4}
-\contentsline {subsection}{\numberline {\color {ThemeColor}2.4.1}UC 1 - Indsaml datas\IeC {\ae }t}{4}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {\color {ThemeColor}2.4.2}UC 2 - Tilf\IeC {\o }j ny bev\IeC {\ae }gelsestype}{5}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {\color {ThemeColor}2.4.3}UC 3 - Slet datas\IeC {\ae }t}{5}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {\color {ThemeColor}2.4.4}UC 4 - Verificering af ML genkendelse}{5}{subsection.2.4.4}
+\contentsline {section}{\numberline {\color {ThemeColor}2.3}Akt\IeC {\o }rbeskrivelse}{5}{section.2.3}
+\contentsline {section}{\numberline {\color {ThemeColor}2.4}Fully dressed use cases}{5}{section.2.4}
+\contentsline {subsection}{\numberline {\color {ThemeColor}2.4.1}UC 1 - Indsaml datas\IeC {\ae }t}{5}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {\color {ThemeColor}2.4.2}UC 2 - Tilf\IeC {\o }j ny bev\IeC {\ae }gelsestype}{6}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {\color {ThemeColor}2.4.3}UC 3 - Slet datas\IeC {\ae }t}{6}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {\color {ThemeColor}2.4.4}UC 4 - Verificering af ML genkendelse}{7}{subsection.2.4.4}
 \contentsline {subsection}{\numberline {\color {ThemeColor}2.4.5}UC 5 - Anvendelse af bev\IeC {\ae }gelsesgenkendelse}{7}{subsection.2.4.5}
-\contentsline {subsection}{\numberline {\color {ThemeColor}2.4.6}UC 6 - Genkendelse af bev\IeC {\ae }gelse}{7}{subsection.2.4.6}
+\contentsline {subsection}{\numberline {\color {ThemeColor}2.4.6}UC 6 - Genkendelse af bev\IeC {\ae }gelse}{8}{subsection.2.4.6}
 \contentsline {chapter}{\chapternumberline {3}Projektplan}{9}{chapter.3}
 \contentsline {chapter}{\chapternumberline {4}Konklusion}{11}{chapter.4}
